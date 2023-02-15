@@ -1,2 +1,2 @@
 # My-Portfolio
-This is my portfolio website
+This is my Nitin Kaplas portfolio website
